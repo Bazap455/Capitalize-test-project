@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+
+# Dependencies are not stored in the repository
+.venv
+
+dist
